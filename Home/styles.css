@@ -1,0 +1,23 @@
+/* Design for Home page */
+#home{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+#home-profile-pic{
+    margin: 30px;
+}
+
+#home-heading{
+    font-size: 3rem;
+}
+
+#home-footer{
+    position: relative;
+}
+
+div p{
+    font-size: 1rem;
+}
+
