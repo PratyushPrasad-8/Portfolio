@@ -1,6 +1,5 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -9,7 +8,6 @@ body {
 
 /* Splash Screen Styles */
 #splash-screen {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
