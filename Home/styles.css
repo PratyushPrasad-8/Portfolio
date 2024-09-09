@@ -21,3 +21,14 @@ div p{
     font-size: 1rem;
 }
 
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .project-info h2 {
+        font-size: 1.5rem;
+    }
+
+    .project-info p {
+        font-size: 0.9rem;
+    }
+}
+

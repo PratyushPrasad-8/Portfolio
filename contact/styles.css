@@ -44,3 +44,19 @@
     margin-bottom: 10px;
 }
 
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .contact-container {
+        flex-direction: column;
+    }
+
+    .contact-info {
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+
+    .social-links a {
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+}
