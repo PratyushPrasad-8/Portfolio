@@ -14,7 +14,8 @@ JavaScript
 Some Animation and Font libraries.  
 
 # View Portfolio
-You can view the live version of my portfolio here.
+You can view the live version of my portfolio here:
+https://pratyushprasad-8.github.io/Portfolio/
 
 # Installation
 To view the project locally, follow these steps:  
